@@ -1,13 +1,13 @@
 {
   "name": "fastcdn",
   "main": "./lib/fastcdn",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "fastcdn:add"
   },
-  "repository": "https://github.com/atom/fastcdn",
+  "repository": "https://github.com/alili/fastcdn.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
