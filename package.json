@@ -1,7 +1,7 @@
 {
   "name": "fastcdn",
   "main": "./lib/fastcdn",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "help you to insert CDN files easily and fast",
   "keywords": [],
   "activationCommands": {
