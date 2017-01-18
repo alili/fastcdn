@@ -2,7 +2,7 @@
   "name": "fastcdn",
   "main": "./lib/fastcdn",
   "version": "1.0.2",
-  "description": "A short description of your package",
+  "description": "help you to insert CDN files easily and fast",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "fastcdn:add"
