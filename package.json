@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "fastcdn:add"
   },
-  "repository": "https://github.com/alili/fastcdn.git",
+  "repository": "https://github.com/alili/fastcdn",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
