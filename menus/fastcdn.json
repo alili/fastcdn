@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle fastcdn",
+        "command": "fastcdn:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "fastcdn",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "fastcdn:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
